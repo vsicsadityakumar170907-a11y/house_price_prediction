@@ -1,2 +1,2 @@
-# house_price_prediction
+# House_Price_Predictor
 Author-Aditya Kumar
