@@ -1,0 +1,501 @@
+record_id,locality,property_type,bedrooms,bathrooms,builtup_area_sqft,plot_area_sqft,property_age_years,floor_number,total_floors,parking,furnishing,price_inr,data_type
+KNP0001,Civil Lines,Independent House,4,3,1572,2394,35,1,3,Yes,Furnished,18600000,Synthetic
+KNP0002,Rawatpur,Independent House,1,1,458,642,35,1,1,Yes,Furnished,2250000,Synthetic
+KNP0003,Civil Lines,Independent House,1,1,443,650,27,1,1,No,Unfurnished,3900000,Synthetic
+KNP0004,Naubasta,Apartment,2,2,640,629,4,8,10,Yes,Furnished,2350000,Synthetic
+KNP0005,Naubasta,Independent House,3,3,1014,1459,6,1,1,Yes,Semi-furnished,4200000,Synthetic
+KNP0006,Kidwai Nagar,Apartment,2,1,597,550,13,1,6,No,Unfurnished,2900000,Synthetic
+KNP0007,Shyam Nagar,Independent House,3,2,1230,1434,33,0,3,Yes,Furnished,5500000,Synthetic
+KNP0008,Shyam Nagar,Independent House,4,4,1346,2075,24,0,3,Yes,Unfurnished,7000000,Synthetic
+KNP0009,Kidwai Nagar,Independent House,4,3,1258,1384,34,0,3,Yes,Semi-furnished,6800000,Synthetic
+KNP0010,Civil Lines,Independent House,1,1,486,471,0,0,1,Yes,Semi-furnished,4900000,Synthetic
+KNP0011,Swaroop Nagar,Apartment,4,4,1485,1657,11,1,8,No,Furnished,12100000,Synthetic
+KNP0012,Govind Nagar,Apartment,3,3,1104,1130,21,5,6,No,Semi-furnished,5000000,Synthetic
+KNP0013,Naubasta,Independent House,2,2,789,1047,15,1,3,Yes,Unfurnished,3050000,Synthetic
+KNP0014,Kidwai Nagar,Independent House,1,1,376,484,33,0,1,Yes,Unfurnished,2000000,Synthetic
+KNP0015,Kakadeo,Apartment,4,3,1176,1164,17,2,3,Yes,Unfurnished,8250000,Synthetic
+KNP0016,Swaroop Nagar,Independent House,2,2,775,1050,31,0,2,No,Furnished,6300000,Synthetic
+KNP0017,Civil Lines,Independent House,4,4,1175,1294,15,1,1,No,Semi-furnished,13000000,Synthetic
+KNP0018,Kakadeo,Independent House,3,3,815,1085,13,1,1,Yes,Semi-furnished,5550000,Synthetic
+KNP0019,Naubasta,Independent House,2,2,798,986,1,1,1,Yes,Semi-furnished,2850000,Synthetic
+KNP0020,Barra,Apartment,1,1,512,471,31,2,7,Yes,Furnished,1550000,Synthetic
+KNP0021,Barra,Independent House,3,2,1194,1304,17,1,1,No,Furnished,5250000,Synthetic
+KNP0022,Barra,Apartment,4,3,1768,1936,32,1,4,Yes,Semi-furnished,6100000,Synthetic
+KNP0023,Kalyanpur,Independent House,1,1,532,727,31,0,1,Yes,Furnished,2300000,Synthetic
+KNP0024,Kakadeo,Apartment,3,2,1020,1088,4,4,8,Yes,Semi-furnished,7100000,Synthetic
+KNP0025,Rawatpur,Independent House,3,3,855,994,24,1,2,Yes,Unfurnished,4700000,Synthetic
+KNP0026,Kakadeo,Independent House,2,1,588,878,11,0,2,No,Furnished,3850000,Synthetic
+KNP0027,Kakadeo,Independent House,2,1,506,657,29,1,1,Yes,Semi-furnished,3250000,Synthetic
+KNP0028,Naubasta,Apartment,2,2,731,734,12,0,10,Yes,Semi-furnished,2150000,Synthetic
+KNP0029,Swaroop Nagar,Independent House,3,2,1141,1019,23,1,2,Yes,Furnished,9250000,Synthetic
+KNP0030,Rawatpur,Independent House,4,4,1157,1636,19,1,3,Yes,Semi-furnished,6450000,Synthetic
+KNP0031,Rawatpur,Independent House,1,1,448,676,26,1,3,Yes,Furnished,2500000,Synthetic
+KNP0032,Kidwai Nagar,Apartment,3,3,1050,1065,13,2,10,No,Semi-furnished,5600000,Synthetic
+KNP0033,Swaroop Nagar,Apartment,2,2,844,943,18,4,9,No,Furnished,5900000,Synthetic
+KNP0034,Shyam Nagar,Independent House,1,1,330,311,20,0,1,No,Unfurnished,1200000,Synthetic
+KNP0035,Kidwai Nagar,Independent House,1,1,394,572,18,1,1,Yes,Semi-furnished,2100000,Synthetic
+KNP0036,Kidwai Nagar,Apartment,1,1,570,561,5,4,11,Yes,Semi-furnished,2700000,Synthetic
+KNP0037,Rawatpur,Apartment,3,3,1161,1286,28,1,10,Yes,Furnished,5400000,Synthetic
+KNP0038,Shyam Nagar,Independent House,4,4,1161,1477,15,0,3,Yes,Semi-furnished,5500000,Synthetic
+KNP0039,Barra,Independent House,3,3,1196,1906,29,0,3,Yes,Furnished,4600000,Synthetic
+KNP0040,Kalyanpur,Apartment,1,1,371,369,19,0,6,No,Furnished,1500000,Synthetic
+KNP0041,Civil Lines,Independent House,3,2,1171,1296,13,1,1,No,Furnished,11050000,Synthetic
+KNP0042,Shyam Nagar,Independent House,3,2,766,876,2,1,1,Yes,Semi-furnished,4450000,Synthetic
+KNP0043,Barra,Independent House,4,4,1359,1241,6,0,3,No,Furnished,5650000,Synthetic
+KNP0044,Govind Nagar,Independent House,1,1,409,537,11,0,1,Yes,Semi-furnished,2050000,Synthetic
+KNP0045,Rawatpur,Independent House,4,4,1635,2579,14,1,1,Yes,Unfurnished,10300000,Synthetic
+KNP0046,Shyam Nagar,Apartment,2,2,585,571,14,0,12,No,Semi-furnished,2400000,Synthetic
+KNP0047,Rawatpur,Independent House,3,3,964,1132,32,0,3,Yes,Furnished,5000000,Synthetic
+KNP0048,Naubasta,Independent House,3,3,958,910,7,0,1,Yes,Semi-furnished,3450000,Synthetic
+KNP0049,Rawatpur,Independent House,2,1,631,853,10,0,2,Yes,Semi-furnished,3700000,Synthetic
+KNP0050,Civil Lines,Independent House,1,1,338,353,5,0,3,No,Unfurnished,3450000,Synthetic
+KNP0051,Kakadeo,Independent House,3,2,798,1151,32,0,1,Yes,Furnished,5100000,Synthetic
+KNP0052,Barra,Independent House,3,3,1228,1160,24,0,3,No,Semi-furnished,4900000,Synthetic
+KNP0053,Swaroop Nagar,Independent House,1,1,530,460,19,0,2,Yes,Semi-furnished,3950000,Synthetic
+KNP0054,Govind Nagar,Independent House,1,1,544,774,27,1,2,No,Unfurnished,2800000,Synthetic
+KNP0055,Rawatpur,Independent House,2,2,833,1328,30,1,2,No,Unfurnished,4800000,Synthetic
+KNP0056,Govind Nagar,Independent House,2,2,515,584,33,1,3,Yes,Unfurnished,2200000,Synthetic
+KNP0057,Rawatpur,Apartment,4,3,1174,1069,28,0,8,No,Semi-furnished,5100000,Synthetic
+KNP0058,Civil Lines,Apartment,4,3,1741,1936,15,2,4,No,Semi-furnished,14850000,Synthetic
+KNP0059,Shyam Nagar,Apartment,4,3,1303,1361,30,0,8,Yes,Furnished,5350000,Synthetic
+KNP0060,Naubasta,Apartment,4,3,1432,1600,31,2,9,Yes,Semi-furnished,4400000,Synthetic
+KNP0061,Kalyanpur,Independent House,3,2,1131,1704,27,0,2,No,Furnished,5450000,Synthetic
+KNP0062,Barra,Apartment,2,2,828,769,35,5,7,No,Semi-furnished,2450000,Synthetic
+KNP0063,Barra,Apartment,2,2,699,761,21,3,6,Yes,Furnished,2250000,Synthetic
+KNP0064,Kakadeo,Independent House,3,2,1011,914,0,0,2,Yes,Unfurnished,6950000,Synthetic
+KNP0065,Swaroop Nagar,Apartment,1,1,447,446,3,0,9,No,Unfurnished,3150000,Synthetic
+KNP0066,Barra,Apartment,3,2,999,983,31,7,9,No,Unfurnished,2850000,Synthetic
+KNP0067,Civil Lines,Independent House,1,1,485,710,8,1,3,Yes,Furnished,5300000,Synthetic
+KNP0068,Swaroop Nagar,Independent House,1,1,493,579,14,0,1,Yes,Unfurnished,4000000,Synthetic
+KNP0069,Kidwai Nagar,Apartment,4,3,1554,1464,12,6,10,Yes,Unfurnished,8250000,Synthetic
+KNP0070,Naubasta,Apartment,3,2,1300,1281,1,1,3,Yes,Furnished,4350000,Synthetic
+KNP0071,Swaroop Nagar,Apartment,2,1,858,885,8,5,7,No,Semi-furnished,6750000,Synthetic
+KNP0072,Barra,Apartment,4,4,1047,1002,21,5,8,No,Furnished,3700000,Synthetic
+KNP0073,Shyam Nagar,Apartment,3,3,1229,1302,33,4,11,Yes,Semi-furnished,5400000,Synthetic
+KNP0074,Civil Lines,Independent House,1,1,402,351,29,0,2,No,Semi-furnished,3100000,Synthetic
+KNP0075,Civil Lines,Apartment,2,2,798,857,14,3,6,Yes,Unfurnished,6350000,Synthetic
+KNP0076,Govind Nagar,Apartment,4,3,1644,1776,20,4,5,Yes,Unfurnished,7050000,Synthetic
+KNP0077,Shyam Nagar,Apartment,4,4,1107,1124,1,4,11,Yes,Furnished,5100000,Synthetic
+KNP0078,Govind Nagar,Independent House,2,2,742,700,2,1,2,Yes,Furnished,4250000,Synthetic
+KNP0079,Civil Lines,Independent House,4,4,1368,1353,29,1,2,Yes,Furnished,12600000,Synthetic
+KNP0080,Civil Lines,Apartment,3,2,956,888,24,1,9,Yes,Furnished,8850000,Synthetic
+KNP0081,Kakadeo,Independent House,2,1,687,910,20,1,2,Yes,Furnished,4250000,Synthetic
+KNP0082,Barra,Independent House,3,3,1166,1054,30,0,1,No,Furnished,4600000,Synthetic
+KNP0083,Naubasta,Apartment,1,1,392,395,27,6,9,Yes,Furnished,1200000,Synthetic
+KNP0084,Civil Lines,Apartment,1,1,489,511,19,0,8,Yes,Unfurnished,3350000,Synthetic
+KNP0085,Swaroop Nagar,Independent House,1,1,367,401,6,0,3,Yes,Unfurnished,2800000,Synthetic
+KNP0086,Barra,Apartment,2,1,867,890,22,0,3,No,Semi-furnished,2900000,Synthetic
+KNP0087,Kidwai Nagar,Independent House,3,3,933,1473,20,1,1,Yes,Semi-furnished,5800000,Synthetic
+KNP0088,Kidwai Nagar,Independent House,3,2,888,761,2,0,2,Yes,Unfurnished,5400000,Synthetic
+KNP0089,Swaroop Nagar,Apartment,2,2,793,856,34,7,8,No,Unfurnished,5450000,Synthetic
+KNP0090,Govind Nagar,Apartment,3,3,1058,1023,33,3,8,No,Unfurnished,4350000,Synthetic
+KNP0091,Kalyanpur,Independent House,3,2,1181,1185,27,1,1,No,Semi-furnished,4650000,Synthetic
+KNP0092,Kalyanpur,Independent House,1,1,345,448,9,0,1,No,Semi-furnished,1500000,Synthetic
+KNP0093,Naubasta,Independent House,2,1,656,1013,25,1,3,Yes,Furnished,2850000,Synthetic
+KNP0094,Rawatpur,Independent House,2,2,694,902,20,1,2,No,Semi-furnished,3900000,Synthetic
+KNP0095,Swaroop Nagar,Apartment,4,3,1145,1208,27,2,3,No,Furnished,10100000,Synthetic
+KNP0096,Swaroop Nagar,Independent House,4,3,1830,2052,13,0,1,Yes,Semi-furnished,18950000,Synthetic
+KNP0097,Shyam Nagar,Apartment,3,2,1093,1175,20,5,8,No,Semi-furnished,4200000,Synthetic
+KNP0098,Kalyanpur,Independent House,2,2,762,740,12,1,1,Yes,Furnished,3150000,Synthetic
+KNP0099,Kidwai Nagar,Independent House,2,2,853,1134,34,0,2,Yes,Semi-furnished,4900000,Synthetic
+KNP0100,Naubasta,Independent House,1,1,441,515,20,1,3,Yes,Unfurnished,1500000,Synthetic
+KNP0101,Kakadeo,Apartment,4,4,1602,1637,5,2,3,No,Unfurnished,9700000,Synthetic
+KNP0102,Shyam Nagar,Apartment,4,4,1090,1153,4,4,6,Yes,Unfurnished,5050000,Synthetic
+KNP0103,Shyam Nagar,Independent House,4,3,1802,2231,25,0,1,No,Semi-furnished,7850000,Synthetic
+KNP0104,Civil Lines,Apartment,3,3,909,978,2,7,11,Yes,Semi-furnished,8350000,Synthetic
+KNP0105,Civil Lines,Apartment,2,2,777,700,15,0,6,Yes,Unfurnished,6800000,Synthetic
+KNP0106,Shyam Nagar,Independent House,1,1,330,461,25,0,3,No,Semi-furnished,1450000,Synthetic
+KNP0107,Kalyanpur,Apartment,4,4,1834,2002,1,0,4,Yes,Furnished,9600000,Synthetic
+KNP0108,Kidwai Nagar,Apartment,2,1,835,763,1,3,5,Yes,Unfurnished,4400000,Synthetic
+KNP0109,Rawatpur,Independent House,3,3,974,1066,21,0,3,No,Unfurnished,4450000,Synthetic
+KNP0110,Naubasta,Apartment,1,1,481,441,28,1,12,No,Furnished,1300000,Synthetic
+KNP0111,Kidwai Nagar,Independent House,2,2,877,1366,29,1,2,Yes,Unfurnished,5350000,Synthetic
+KNP0112,Govind Nagar,Apartment,1,1,363,332,16,0,4,Yes,Semi-furnished,1600000,Synthetic
+KNP0113,Govind Nagar,Apartment,1,1,504,537,5,3,8,No,Semi-furnished,2200000,Synthetic
+KNP0114,Naubasta,Independent House,4,4,1085,1516,33,0,2,Yes,Furnished,4300000,Synthetic
+KNP0115,Swaroop Nagar,Apartment,1,1,446,438,23,7,10,No,Semi-furnished,2800000,Synthetic
+KNP0116,Shyam Nagar,Apartment,3,2,1285,1322,5,1,6,Yes,Unfurnished,5900000,Synthetic
+KNP0117,Swaroop Nagar,Apartment,1,1,470,449,25,5,8,Yes,Unfurnished,3150000,Synthetic
+KNP0118,Barra,Independent House,1,1,392,469,15,1,2,No,Furnished,1600000,Synthetic
+KNP0119,Rawatpur,Apartment,1,1,411,451,23,4,7,Yes,Unfurnished,1650000,Synthetic
+KNP0120,Kalyanpur,Apartment,4,4,1713,1561,23,11,12,Yes,Semi-furnished,7100000,Synthetic
+KNP0121,Govind Nagar,Independent House,3,3,734,755,35,0,1,Yes,Furnished,3750000,Synthetic
+KNP0122,Naubasta,Apartment,4,3,1224,1242,11,2,4,Yes,Furnished,4150000,Synthetic
+KNP0123,Swaroop Nagar,Independent House,3,2,1202,1034,21,1,3,No,Furnished,9050000,Synthetic
+KNP0124,Rawatpur,Independent House,1,1,432,432,7,1,1,Yes,Semi-furnished,2200000,Synthetic
+KNP0125,Civil Lines,Apartment,4,4,1330,1265,26,3,7,Yes,Semi-furnished,11300000,Synthetic
+KNP0126,Shyam Nagar,Apartment,2,2,662,642,7,3,12,Yes,Furnished,3000000,Synthetic
+KNP0127,Kakadeo,Apartment,2,2,611,643,27,1,3,Yes,Unfurnished,3650000,Synthetic
+KNP0128,Kakadeo,Apartment,2,1,650,698,22,1,3,No,Furnished,4100000,Synthetic
+KNP0129,Barra,Independent House,1,1,448,569,25,0,3,Yes,Furnished,1800000,Synthetic
+KNP0130,Kakadeo,Apartment,1,1,383,354,14,5,10,No,Furnished,2150000,Synthetic
+KNP0131,Kakadeo,Independent House,2,2,655,577,28,0,3,Yes,Semi-furnished,4000000,Synthetic
+KNP0132,Civil Lines,Independent House,2,2,639,667,10,0,3,No,Unfurnished,5700000,Synthetic
+KNP0133,Barra,Independent House,2,1,727,646,18,1,2,Yes,Unfurnished,2350000,Synthetic
+KNP0134,Kakadeo,Apartment,4,4,1502,1584,23,1,11,Yes,Unfurnished,10250000,Synthetic
+KNP0135,Shyam Nagar,Apartment,3,3,1168,1056,27,0,5,Yes,Unfurnished,4650000,Synthetic
+KNP0136,Civil Lines,Independent House,4,4,1580,1870,4,0,2,Yes,Furnished,19600000,Synthetic
+KNP0137,Naubasta,Apartment,3,3,883,932,23,2,4,Yes,Furnished,2700000,Synthetic
+KNP0138,Rawatpur,Independent House,1,1,584,555,5,0,2,Yes,Unfurnished,2900000,Synthetic
+KNP0139,Rawatpur,Independent House,2,1,661,612,4,1,3,Yes,Furnished,3650000,Synthetic
+KNP0140,Shyam Nagar,Apartment,4,3,1571,1500,13,1,5,No,Unfurnished,6650000,Synthetic
+KNP0141,Kakadeo,Independent House,1,1,431,494,15,0,2,No,Semi-furnished,2550000,Synthetic
+KNP0142,Swaroop Nagar,Apartment,1,1,452,441,20,2,7,Yes,Unfurnished,3000000,Synthetic
+KNP0143,Kalyanpur,Apartment,3,2,1234,1376,16,0,10,Yes,Furnished,5600000,Synthetic
+KNP0144,Kakadeo,Independent House,2,2,557,612,26,0,1,Yes,Semi-furnished,3700000,Synthetic
+KNP0145,Swaroop Nagar,Apartment,4,3,1163,1186,28,0,4,Yes,Furnished,8950000,Synthetic
+KNP0146,Swaroop Nagar,Apartment,4,4,1579,1726,29,0,5,No,Semi-furnished,11650000,Synthetic
+KNP0147,Kakadeo,Apartment,4,3,1148,1092,22,9,11,Yes,Unfurnished,6850000,Synthetic
+KNP0148,Naubasta,Apartment,1,1,558,601,7,2,4,Yes,Semi-furnished,1650000,Synthetic
+KNP0149,Rawatpur,Independent House,4,4,1540,2266,16,1,1,No,Furnished,9950000,Synthetic
+KNP0150,Kakadeo,Independent House,2,2,579,745,4,1,1,No,Furnished,3950000,Synthetic
+KNP0151,Naubasta,Apartment,2,1,738,671,22,6,9,Yes,Unfurnished,2350000,Synthetic
+KNP0152,Naubasta,Independent House,3,2,742,1133,33,1,1,Yes,Semi-furnished,2600000,Synthetic
+KNP0153,Naubasta,Independent House,3,2,840,1247,23,1,3,No,Semi-furnished,3550000,Synthetic
+KNP0154,Kidwai Nagar,Independent House,2,2,692,728,34,1,2,Yes,Semi-furnished,3800000,Synthetic
+KNP0155,Kakadeo,Apartment,3,2,1174,1278,16,10,12,Yes,Semi-furnished,6900000,Synthetic
+KNP0156,Rawatpur,Apartment,2,2,687,723,13,4,8,No,Unfurnished,2900000,Synthetic
+KNP0157,Swaroop Nagar,Independent House,2,1,594,869,6,1,2,No,Semi-furnished,5050000,Synthetic
+KNP0158,Shyam Nagar,Independent House,4,3,1720,2006,30,1,3,Yes,Unfurnished,7900000,Synthetic
+KNP0159,Rawatpur,Independent House,4,3,1695,1555,5,0,2,No,Unfurnished,8500000,Synthetic
+KNP0160,Kidwai Nagar,Independent House,4,3,1270,1791,34,1,3,No,Unfurnished,8050000,Synthetic
+KNP0161,Kalyanpur,Independent House,1,1,345,362,11,0,2,Yes,Furnished,1700000,Synthetic
+KNP0162,Kakadeo,Independent House,3,2,1297,1950,17,0,2,Yes,Furnished,10350000,Synthetic
+KNP0163,Barra,Independent House,2,1,714,1034,25,1,3,Yes,Semi-furnished,2850000,Synthetic
+KNP0164,Naubasta,Independent House,3,3,890,1312,11,0,1,Yes,Unfurnished,3800000,Synthetic
+KNP0165,Civil Lines,Independent House,4,3,1785,2469,26,1,1,Yes,Semi-furnished,20850000,Synthetic
+KNP0166,Naubasta,Independent House,1,1,510,622,18,1,2,Yes,Semi-furnished,1600000,Synthetic
+KNP0167,Govind Nagar,Independent House,4,3,1343,1523,0,0,3,Yes,Furnished,7500000,Synthetic
+KNP0168,Naubasta,Independent House,4,4,1407,1829,33,1,1,Yes,Semi-furnished,5200000,Synthetic
+KNP0169,Kalyanpur,Apartment,4,3,1731,1692,16,9,10,Yes,Semi-furnished,7550000,Synthetic
+KNP0170,Swaroop Nagar,Independent House,4,4,1849,2805,21,1,2,No,Unfurnished,17650000,Synthetic
+KNP0171,Kidwai Nagar,Independent House,2,1,681,709,26,1,3,No,Unfurnished,3500000,Synthetic
+KNP0172,Civil Lines,Independent House,4,4,1159,1222,9,1,3,Yes,Unfurnished,13350000,Synthetic
+KNP0173,Kakadeo,Independent House,1,1,482,682,29,1,1,Yes,Semi-furnished,3350000,Synthetic
+KNP0174,Swaroop Nagar,Apartment,1,1,452,414,10,1,3,Yes,Unfurnished,3000000,Synthetic
+KNP0175,Rawatpur,Independent House,4,3,1176,1495,9,1,3,Yes,Furnished,7050000,Synthetic
+KNP0176,Kakadeo,Apartment,1,1,543,528,25,6,9,No,Unfurnished,2900000,Synthetic
+KNP0177,Barra,Independent House,2,1,881,1105,11,1,3,Yes,Unfurnished,3850000,Synthetic
+KNP0178,Civil Lines,Independent House,1,1,395,386,33,0,1,Yes,Semi-furnished,3350000,Synthetic
+KNP0179,Kidwai Nagar,Independent House,4,4,1548,2281,28,0,3,Yes,Semi-furnished,9700000,Synthetic
+KNP0180,Kidwai Nagar,Independent House,1,1,427,430,12,1,3,Yes,Semi-furnished,2400000,Synthetic
+KNP0181,Shyam Nagar,Independent House,1,1,553,502,25,1,2,No,Semi-furnished,2250000,Synthetic
+KNP0182,Shyam Nagar,Independent House,3,2,1247,1135,23,0,1,Yes,Unfurnished,4950000,Synthetic
+KNP0183,Govind Nagar,Independent House,1,1,576,785,1,1,3,Yes,Furnished,3250000,Synthetic
+KNP0184,Kalyanpur,Independent House,1,1,456,716,2,1,2,No,Semi-furnished,2300000,Synthetic
+KNP0185,Swaroop Nagar,Independent House,2,2,657,637,28,0,3,Yes,Furnished,5250000,Synthetic
+KNP0186,Civil Lines,Independent House,3,2,762,760,11,0,2,No,Furnished,7900000,Synthetic
+KNP0187,Naubasta,Apartment,4,3,1060,1074,11,5,9,Yes,Furnished,4350000,Synthetic
+KNP0188,Barra,Independent House,2,1,578,914,15,1,1,Yes,Semi-furnished,2700000,Synthetic
+KNP0189,Govind Nagar,Apartment,1,1,490,517,12,8,11,Yes,Semi-furnished,1950000,Synthetic
+KNP0190,Shyam Nagar,Independent House,4,4,1844,1662,14,0,2,No,Unfurnished,8750000,Synthetic
+KNP0191,Civil Lines,Independent House,4,4,1482,1457,18,1,3,Yes,Furnished,14400000,Synthetic
+KNP0192,Shyam Nagar,Independent House,2,1,566,752,20,0,3,Yes,Unfurnished,2500000,Synthetic
+KNP0193,Govind Nagar,Independent House,2,2,738,866,7,1,3,Yes,Semi-furnished,3850000,Synthetic
+KNP0194,Civil Lines,Apartment,2,2,782,721,35,0,5,Yes,Furnished,5800000,Synthetic
+KNP0195,Kidwai Nagar,Independent House,4,4,1603,2181,30,0,3,No,Semi-furnished,9100000,Synthetic
+KNP0196,Swaroop Nagar,Independent House,1,1,408,360,9,1,2,Yes,Semi-furnished,3200000,Synthetic
+KNP0197,Swaroop Nagar,Independent House,4,3,1276,1615,3,1,1,Yes,Unfurnished,13900000,Synthetic
+KNP0198,Barra,Apartment,1,1,533,507,23,5,6,Yes,Semi-furnished,1600000,Synthetic
+KNP0199,Govind Nagar,Independent House,4,4,1478,2218,35,1,3,No,Furnished,7500000,Synthetic
+KNP0200,Civil Lines,Independent House,3,2,836,1125,23,1,3,Yes,Furnished,7850000,Synthetic
+KNP0201,Kakadeo,Independent House,3,2,951,1140,21,0,2,No,Unfurnished,5600000,Synthetic
+KNP0202,Kakadeo,Independent House,3,2,1097,1465,17,1,1,Yes,Semi-furnished,7700000,Synthetic
+KNP0203,Kakadeo,Apartment,2,2,688,635,32,1,4,Yes,Semi-furnished,3600000,Synthetic
+KNP0204,Kakadeo,Independent House,4,3,1329,1164,14,0,1,Yes,Unfurnished,9050000,Synthetic
+KNP0205,Civil Lines,Apartment,1,1,492,489,2,4,7,No,Semi-furnished,3900000,Synthetic
+KNP0206,Naubasta,Apartment,1,1,545,541,32,7,10,No,Semi-furnished,1500000,Synthetic
+KNP0207,Kakadeo,Independent House,3,3,1067,1684,29,1,3,No,Semi-furnished,8350000,Synthetic
+KNP0208,Swaroop Nagar,Apartment,1,1,526,527,18,0,6,Yes,Unfurnished,3350000,Synthetic
+KNP0209,Swaroop Nagar,Apartment,4,4,1183,1132,19,3,11,Yes,Furnished,10150000,Synthetic
+KNP0210,Kidwai Nagar,Independent House,1,1,507,525,24,1,3,Yes,Unfurnished,2300000,Synthetic
+KNP0211,Rawatpur,Independent House,3,3,870,1355,5,0,2,Yes,Unfurnished,5700000,Synthetic
+KNP0212,Kakadeo,Independent House,1,1,443,610,9,1,3,Yes,Unfurnished,3350000,Synthetic
+KNP0213,Swaroop Nagar,Independent House,1,1,333,288,28,1,2,Yes,Unfurnished,2200000,Synthetic
+KNP0214,Swaroop Nagar,Apartment,4,3,1609,1485,32,1,6,Yes,Semi-furnished,11950000,Synthetic
+KNP0215,Kalyanpur,Independent House,3,3,932,856,15,1,2,Yes,Furnished,3850000,Synthetic
+KNP0216,Civil Lines,Apartment,2,2,787,817,7,0,10,Yes,Semi-furnished,7100000,Synthetic
+KNP0217,Naubasta,Independent House,4,3,1591,2193,5,1,3,No,Furnished,6850000,Synthetic
+KNP0218,Rawatpur,Apartment,4,3,1703,1888,28,3,5,Yes,Unfurnished,8300000,Synthetic
+KNP0219,Shyam Nagar,Independent House,3,2,1246,1761,11,1,2,No,Semi-furnished,7250000,Synthetic
+KNP0220,Barra,Apartment,4,4,1551,1717,2,1,7,No,Semi-furnished,5750000,Synthetic
+KNP0221,Naubasta,Independent House,4,3,1213,1868,18,0,2,Yes,Unfurnished,5050000,Synthetic
+KNP0222,Kidwai Nagar,Independent House,4,4,1108,1277,28,0,3,Yes,Semi-furnished,6950000,Synthetic
+KNP0223,Shyam Nagar,Independent House,3,3,935,953,13,1,1,No,Semi-furnished,4750000,Synthetic
+KNP0224,Kidwai Nagar,Apartment,3,3,1014,1105,23,2,10,Yes,Furnished,5750000,Synthetic
+KNP0225,Swaroop Nagar,Apartment,2,2,538,553,6,5,8,Yes,Furnished,4550000,Synthetic
+KNP0226,Swaroop Nagar,Independent House,2,1,520,614,12,1,2,No,Semi-furnished,5050000,Synthetic
+KNP0227,Kakadeo,Independent House,4,3,1194,1432,7,1,3,No,Furnished,8800000,Synthetic
+KNP0228,Barra,Independent House,1,1,432,624,29,1,2,Yes,Unfurnished,1450000,Synthetic
+KNP0229,Rawatpur,Independent House,1,1,415,541,34,1,1,Yes,Unfurnished,1750000,Synthetic
+KNP0230,Govind Nagar,Independent House,1,1,337,306,0,0,2,Yes,Semi-furnished,1500000,Synthetic
+KNP0231,Kidwai Nagar,Apartment,4,4,1146,1223,8,5,12,No,Furnished,7300000,Synthetic
+KNP0232,Civil Lines,Apartment,4,4,1410,1278,18,6,11,No,Unfurnished,11600000,Synthetic
+KNP0233,Govind Nagar,Independent House,3,2,804,1027,33,0,3,No,Furnished,3600000,Synthetic
+KNP0234,Barra,Independent House,1,1,537,479,7,1,1,No,Unfurnished,1650000,Synthetic
+KNP0235,Govind Nagar,Independent House,2,2,830,969,25,1,2,Yes,Semi-furnished,3750000,Synthetic
+KNP0236,Govind Nagar,Apartment,3,2,851,847,16,0,9,No,Furnished,4200000,Synthetic
+KNP0237,Shyam Nagar,Apartment,1,1,360,359,17,5,10,No,Semi-furnished,1450000,Synthetic
+KNP0238,Swaroop Nagar,Independent House,2,2,828,1034,11,0,3,Yes,Unfurnished,7950000,Synthetic
+KNP0239,Civil Lines,Apartment,4,3,1107,1112,23,8,9,Yes,Semi-furnished,10200000,Synthetic
+KNP0240,Naubasta,Independent House,4,3,1397,1321,13,1,2,Yes,Furnished,6050000,Synthetic
+KNP0241,Civil Lines,Independent House,2,2,898,914,8,1,3,No,Unfurnished,8900000,Synthetic
+KNP0242,Shyam Nagar,Apartment,2,1,774,827,19,7,10,Yes,Furnished,3150000,Synthetic
+KNP0243,Naubasta,Independent House,1,1,447,496,27,0,1,Yes,Furnished,1450000,Synthetic
+KNP0244,Govind Nagar,Apartment,3,3,763,717,23,5,9,Yes,Semi-furnished,3400000,Synthetic
+KNP0245,Barra,Apartment,3,3,1114,1170,35,3,5,Yes,Semi-furnished,3750000,Synthetic
+KNP0246,Barra,Apartment,2,1,796,857,29,1,12,No,Unfurnished,2600000,Synthetic
+KNP0247,Kalyanpur,Independent House,1,1,492,617,14,1,2,Yes,Furnished,2250000,Synthetic
+KNP0248,Govind Nagar,Apartment,4,3,1128,1088,20,4,10,No,Furnished,5500000,Synthetic
+KNP0249,Civil Lines,Apartment,3,2,805,725,21,3,6,Yes,Semi-furnished,7500000,Synthetic
+KNP0250,Swaroop Nagar,Apartment,2,2,642,603,31,1,9,No,Unfurnished,4650000,Synthetic
+KNP0251,Swaroop Nagar,Apartment,1,1,536,523,16,3,12,Yes,Unfurnished,4000000,Synthetic
+KNP0252,Swaroop Nagar,Independent House,1,1,508,620,34,1,2,No,Semi-furnished,4350000,Synthetic
+KNP0253,Shyam Nagar,Apartment,1,1,463,466,0,1,6,No,Unfurnished,1750000,Synthetic
+KNP0254,Naubasta,Independent House,4,4,1397,1790,34,1,1,Yes,Semi-furnished,5200000,Synthetic
+KNP0255,Barra,Independent House,4,4,1206,1484,11,1,2,Yes,Unfurnished,4850000,Synthetic
+KNP0256,Kakadeo,Apartment,1,1,538,580,11,1,9,Yes,Unfurnished,2900000,Synthetic
+KNP0257,Kidwai Nagar,Independent House,3,2,1135,1173,2,0,2,Yes,Unfurnished,6850000,Synthetic
+KNP0258,Rawatpur,Independent House,4,3,1715,2159,1,0,3,Yes,Semi-furnished,11150000,Synthetic
+KNP0259,Rawatpur,Independent House,1,1,436,673,30,1,2,No,Furnished,2350000,Synthetic
+KNP0260,Govind Nagar,Apartment,3,3,1044,1164,25,3,9,Yes,Unfurnished,4450000,Synthetic
+KNP0261,Rawatpur,Independent House,2,2,797,1206,20,0,2,Yes,Unfurnished,4050000,Synthetic
+KNP0262,Civil Lines,Apartment,1,1,508,476,17,4,6,No,Unfurnished,3750000,Synthetic
+KNP0263,Kalyanpur,Independent House,3,3,743,817,10,0,1,No,Semi-furnished,3900000,Synthetic
+KNP0264,Naubasta,Apartment,4,3,1573,1450,23,4,9,No,Furnished,5850000,Synthetic
+KNP0265,Barra,Independent House,1,1,369,366,7,1,2,Yes,Unfurnished,1350000,Synthetic
+KNP0266,Govind Nagar,Independent House,1,1,376,535,7,0,3,Yes,Unfurnished,2050000,Synthetic
+KNP0267,Kakadeo,Independent House,4,4,1765,2804,6,0,2,No,Unfurnished,13450000,Synthetic
+KNP0268,Civil Lines,Independent House,1,1,530,596,4,0,2,Yes,Furnished,5000000,Synthetic
+KNP0269,Barra,Independent House,1,1,510,744,13,0,2,Yes,Unfurnished,2100000,Synthetic
+KNP0270,Rawatpur,Apartment,4,4,1542,1575,17,2,3,No,Furnished,8150000,Synthetic
+KNP0271,Rawatpur,Independent House,3,2,985,1098,11,1,3,No,Furnished,4850000,Synthetic
+KNP0272,Kidwai Nagar,Independent House,4,3,1274,1768,15,0,1,No,Unfurnished,8250000,Synthetic
+KNP0273,Kakadeo,Independent House,4,4,1431,2248,8,1,1,No,Unfurnished,11600000,Synthetic
+KNP0274,Swaroop Nagar,Independent House,3,3,1245,1400,32,1,2,Yes,Semi-furnished,10900000,Synthetic
+KNP0275,Barra,Independent House,4,3,1548,2253,25,1,1,Yes,Semi-furnished,6150000,Synthetic
+KNP0276,Swaroop Nagar,Independent House,1,1,387,487,7,1,2,Yes,Furnished,3400000,Synthetic
+KNP0277,Kalyanpur,Independent House,1,1,436,399,22,1,2,No,Furnished,1950000,Synthetic
+KNP0278,Civil Lines,Independent House,2,2,623,681,12,0,1,Yes,Semi-furnished,6400000,Synthetic
+KNP0279,Govind Nagar,Independent House,1,1,498,536,17,1,2,No,Unfurnished,2100000,Synthetic
+KNP0280,Civil Lines,Independent House,1,1,378,425,11,0,3,Yes,Semi-furnished,3950000,Synthetic
+KNP0281,Swaroop Nagar,Independent House,1,1,580,743,33,1,2,No,Unfurnished,4350000,Synthetic
+KNP0282,Naubasta,Apartment,4,3,1451,1474,33,3,4,Yes,Furnished,4350000,Synthetic
+KNP0283,Kalyanpur,Independent House,3,2,781,703,28,1,3,Yes,Furnished,3050000,Synthetic
+KNP0284,Swaroop Nagar,Independent House,2,2,697,871,28,1,2,Yes,Unfurnished,6350000,Synthetic
+KNP0285,Barra,Independent House,2,1,606,708,4,1,2,No,Furnished,2450000,Synthetic
+KNP0286,Kidwai Nagar,Independent House,2,1,595,832,30,0,1,Yes,Unfurnished,3100000,Synthetic
+KNP0287,Kalyanpur,Independent House,1,1,546,586,31,0,2,No,Furnished,2200000,Synthetic
+KNP0288,Civil Lines,Apartment,2,1,743,814,29,3,12,Yes,Semi-furnished,6150000,Synthetic
+KNP0289,Rawatpur,Apartment,1,1,479,530,22,0,3,Yes,Furnished,2150000,Synthetic
+KNP0290,Barra,Independent House,2,1,790,706,15,1,3,No,Unfurnished,2850000,Synthetic
+KNP0291,Govind Nagar,Independent House,3,3,1172,1729,30,0,1,Yes,Semi-furnished,5750000,Synthetic
+KNP0292,Kidwai Nagar,Apartment,4,3,1673,1687,20,2,4,Yes,Unfurnished,8650000,Synthetic
+KNP0293,Rawatpur,Independent House,3,2,724,844,9,0,3,No,Furnished,4050000,Synthetic
+KNP0294,Kalyanpur,Independent House,2,2,507,682,1,1,2,Yes,Furnished,2800000,Synthetic
+KNP0295,Barra,Independent House,1,1,360,537,27,0,2,Yes,Semi-furnished,1450000,Synthetic
+KNP0296,Kidwai Nagar,Independent House,1,1,395,416,10,1,2,No,Semi-furnished,2050000,Synthetic
+KNP0297,Swaroop Nagar,Apartment,2,2,746,811,9,5,9,No,Semi-furnished,6550000,Synthetic
+KNP0298,Kalyanpur,Independent House,2,2,723,842,33,0,1,Yes,Unfurnished,2750000,Synthetic
+KNP0299,Swaroop Nagar,Apartment,2,1,902,924,14,3,10,Yes,Furnished,7500000,Synthetic
+KNP0300,Kakadeo,Independent House,1,1,329,460,2,0,2,Yes,Furnished,2600000,Synthetic
+KNP0301,Rawatpur,Independent House,1,1,580,741,1,1,1,No,Semi-furnished,3150000,Synthetic
+KNP0302,Kakadeo,Apartment,1,1,446,464,11,10,11,Yes,Unfurnished,2400000,Synthetic
+KNP0303,Govind Nagar,Independent House,2,2,752,1133,14,1,3,Yes,Semi-furnished,3600000,Synthetic
+KNP0304,Kidwai Nagar,Apartment,2,2,839,872,31,0,4,Yes,Unfurnished,3700000,Synthetic
+KNP0305,Shyam Nagar,Independent House,4,4,1676,2672,11,0,1,Yes,Semi-furnished,10700000,Synthetic
+KNP0306,Shyam Nagar,Apartment,1,1,367,387,7,8,12,Yes,Furnished,1600000,Synthetic
+KNP0307,Kidwai Nagar,Apartment,1,1,328,303,1,0,7,Yes,Furnished,1650000,Synthetic
+KNP0308,Kalyanpur,Independent House,4,4,1844,2521,20,1,3,No,Semi-furnished,10200000,Synthetic
+KNP0309,Govind Nagar,Independent House,1,1,560,585,34,1,1,Yes,Semi-furnished,2600000,Synthetic
+KNP0310,Kidwai Nagar,Independent House,1,1,489,716,14,1,3,Yes,Unfurnished,3100000,Synthetic
+KNP0311,Kidwai Nagar,Independent House,4,4,1301,1742,7,0,1,No,Semi-furnished,8350000,Synthetic
+KNP0312,Rawatpur,Independent House,4,3,1474,1519,22,1,3,No,Unfurnished,8050000,Synthetic
+KNP0313,Shyam Nagar,Independent House,4,4,1275,1992,33,0,1,No,Furnished,7350000,Synthetic
+KNP0314,Shyam Nagar,Apartment,2,2,893,931,14,5,7,Yes,Semi-furnished,3650000,Synthetic
+KNP0315,Kakadeo,Independent House,4,3,1170,1603,14,0,1,Yes,Unfurnished,8300000,Synthetic
+KNP0316,Kakadeo,Independent House,2,2,875,1368,8,1,3,No,Furnished,7000000,Synthetic
+KNP0317,Kakadeo,Independent House,1,1,578,820,6,1,2,Yes,Furnished,4450000,Synthetic
+KNP0318,Govind Nagar,Independent House,1,1,515,447,13,0,1,No,Unfurnished,2100000,Synthetic
+KNP0319,Rawatpur,Independent House,3,2,845,1269,22,1,3,Yes,Unfurnished,5050000,Synthetic
+KNP0320,Kidwai Nagar,Independent House,3,3,893,1091,10,0,3,Yes,Semi-furnished,5100000,Synthetic
+KNP0321,Barra,Apartment,3,3,1201,1131,24,0,9,Yes,Unfurnished,4300000,Synthetic
+KNP0322,Barra,Independent House,4,3,1465,1938,0,0,1,Yes,Semi-furnished,7150000,Synthetic
+KNP0323,Civil Lines,Apartment,1,1,481,535,9,0,5,No,Unfurnished,3800000,Synthetic
+KNP0324,Govind Nagar,Apartment,1,1,579,552,3,0,9,No,Unfurnished,2550000,Synthetic
+KNP0325,Kidwai Nagar,Apartment,4,3,1738,1653,12,1,12,Yes,Semi-furnished,9300000,Synthetic
+KNP0326,Shyam Nagar,Independent House,3,2,835,1145,20,1,2,Yes,Furnished,4350000,Synthetic
+KNP0327,Govind Nagar,Independent House,4,4,1281,1666,5,0,2,No,Semi-furnished,6700000,Synthetic
+KNP0328,Shyam Nagar,Independent House,4,4,1767,2755,20,0,3,No,Furnished,8800000,Synthetic
+KNP0329,Barra,Independent House,1,1,464,418,31,0,3,Yes,Unfurnished,1450000,Synthetic
+KNP0330,Swaroop Nagar,Apartment,2,1,739,774,28,3,6,Yes,Semi-furnished,5450000,Synthetic
+KNP0331,Govind Nagar,Independent House,4,4,1497,2318,15,1,1,No,Unfurnished,8150000,Synthetic
+KNP0332,Rawatpur,Independent House,4,3,1810,2121,34,1,1,Yes,Unfurnished,8500000,Synthetic
+KNP0333,Kakadeo,Independent House,3,2,1044,1465,28,1,1,Yes,Furnished,7900000,Synthetic
+KNP0334,Naubasta,Independent House,1,1,498,767,27,1,1,No,Unfurnished,1850000,Synthetic
+KNP0335,Kidwai Nagar,Independent House,2,2,667,724,16,1,1,Yes,Unfurnished,3200000,Synthetic
+KNP0336,Shyam Nagar,Apartment,2,2,735,706,33,5,7,Yes,Semi-furnished,2800000,Synthetic
+KNP0337,Govind Nagar,Independent House,1,1,575,851,11,1,2,Yes,Semi-furnished,3150000,Synthetic
+KNP0338,Kalyanpur,Apartment,2,2,578,574,32,0,5,Yes,Furnished,2200000,Synthetic
+KNP0339,Kakadeo,Independent House,1,1,346,296,28,1,1,Yes,Unfurnished,1800000,Synthetic
+KNP0340,Shyam Nagar,Apartment,3,2,833,844,15,6,12,Yes,Unfurnished,3250000,Synthetic
+KNP0341,Rawatpur,Independent House,3,2,1138,1155,12,0,2,Yes,Furnished,5650000,Synthetic
+KNP0342,Barra,Independent House,3,3,1290,1515,33,1,1,Yes,Semi-furnished,4900000,Synthetic
+KNP0343,Shyam Nagar,Apartment,3,2,966,1053,5,3,12,No,Semi-furnished,4500000,Synthetic
+KNP0344,Rawatpur,Independent House,1,1,456,495,23,1,3,Yes,Semi-furnished,2100000,Synthetic
+KNP0345,Barra,Apartment,3,3,801,835,13,4,9,No,Furnished,2950000,Synthetic
+KNP0346,Swaroop Nagar,Apartment,2,2,707,666,27,0,3,No,Semi-furnished,5550000,Synthetic
+KNP0347,Kalyanpur,Independent House,1,1,406,649,12,1,2,No,Furnished,2050000,Synthetic
+KNP0348,Govind Nagar,Independent House,2,1,507,679,0,1,2,No,Unfurnished,2550000,Synthetic
+KNP0349,Rawatpur,Independent House,2,2,631,779,16,0,3,Yes,Furnished,3450000,Synthetic
+KNP0350,Rawatpur,Independent House,4,4,1199,1556,16,0,1,Yes,Furnished,7000000,Synthetic
+KNP0351,Kalyanpur,Independent House,1,1,363,443,3,0,1,Yes,Unfurnished,1550000,Synthetic
+KNP0352,Civil Lines,Independent House,3,3,980,851,33,1,1,Yes,Semi-furnished,7950000,Synthetic
+KNP0353,Rawatpur,Independent House,3,3,1035,1281,2,1,3,Yes,Semi-furnished,6100000,Synthetic
+KNP0354,Swaroop Nagar,Independent House,2,1,881,1350,6,1,1,No,Semi-furnished,9150000,Synthetic
+KNP0355,Kalyanpur,Independent House,2,1,609,558,4,1,3,Yes,Semi-furnished,2550000,Synthetic
+KNP0356,Barra,Independent House,4,4,1240,1168,35,1,1,Yes,Furnished,4950000,Synthetic
+KNP0357,Kidwai Nagar,Independent House,4,3,1710,1898,4,1,1,Yes,Semi-furnished,9650000,Synthetic
+KNP0358,Civil Lines,Apartment,1,1,459,456,1,1,3,Yes,Furnished,4200000,Synthetic
+KNP0359,Naubasta,Independent House,4,4,1330,1974,1,0,1,Yes,Furnished,6450000,Synthetic
+KNP0360,Govind Nagar,Independent House,1,1,554,686,24,1,1,Yes,Furnished,2400000,Synthetic
+KNP0361,Kidwai Nagar,Apartment,3,3,781,767,32,0,8,Yes,Semi-furnished,3850000,Synthetic
+KNP0362,Kidwai Nagar,Independent House,2,1,530,516,8,0,1,No,Furnished,3100000,Synthetic
+KNP0363,Kakadeo,Independent House,1,1,559,837,10,0,2,No,Furnished,4100000,Synthetic
+KNP0364,Govind Nagar,Apartment,1,1,443,433,17,8,9,Yes,Semi-furnished,1650000,Synthetic
+KNP0365,Naubasta,Apartment,1,1,341,332,33,2,4,Yes,Furnished,950000,Synthetic
+KNP0366,Naubasta,Independent House,3,2,972,1239,26,1,1,No,Furnished,3900000,Synthetic
+KNP0367,Kidwai Nagar,Apartment,4,3,1631,1807,35,7,8,No,Semi-furnished,8250000,Synthetic
+KNP0368,Swaroop Nagar,Independent House,2,2,908,800,25,1,2,No,Furnished,6750000,Synthetic
+KNP0369,Shyam Nagar,Apartment,3,3,842,764,0,6,11,Yes,Semi-furnished,4100000,Synthetic
+KNP0370,Barra,Apartment,2,2,790,741,13,0,5,Yes,Furnished,2600000,Synthetic
+KNP0371,Shyam Nagar,Apartment,3,2,821,792,0,0,5,No,Unfurnished,4000000,Synthetic
+KNP0372,Kakadeo,Apartment,4,4,1855,2046,17,7,11,No,Furnished,12650000,Synthetic
+KNP0373,Shyam Nagar,Independent House,4,3,1458,2325,2,0,1,No,Unfurnished,9300000,Synthetic
+KNP0374,Barra,Apartment,3,3,1059,1026,29,3,4,Yes,Unfurnished,3350000,Synthetic
+KNP0375,Naubasta,Independent House,4,3,1791,1802,32,0,1,Yes,Furnished,5750000,Synthetic
+KNP0376,Swaroop Nagar,Independent House,3,3,1114,1770,22,1,2,Yes,Unfurnished,11900000,Synthetic
+KNP0377,Swaroop Nagar,Apartment,4,4,1630,1536,5,4,5,Yes,Semi-furnished,16000000,Synthetic
+KNP0378,Naubasta,Independent House,2,1,853,1236,14,1,2,No,Semi-furnished,3200000,Synthetic
+KNP0379,Swaroop Nagar,Independent House,2,2,896,1265,23,1,2,No,Unfurnished,8450000,Synthetic
+KNP0380,Govind Nagar,Independent House,1,1,520,649,26,1,1,Yes,Semi-furnished,2250000,Synthetic
+KNP0381,Kidwai Nagar,Apartment,2,1,865,914,10,5,7,No,Semi-furnished,4050000,Synthetic
+KNP0382,Kakadeo,Apartment,1,1,539,556,1,2,7,No,Semi-furnished,3500000,Synthetic
+KNP0383,Civil Lines,Independent House,1,1,461,547,30,0,2,Yes,Unfurnished,4350000,Synthetic
+KNP0384,Kakadeo,Independent House,2,2,717,1081,32,0,2,Yes,Furnished,5400000,Synthetic
+KNP0385,Naubasta,Apartment,1,1,547,546,19,5,11,Yes,Unfurnished,1400000,Synthetic
+KNP0386,Rawatpur,Apartment,2,2,801,817,12,4,9,Yes,Semi-furnished,3350000,Synthetic
+KNP0387,Swaroop Nagar,Apartment,1,1,356,397,17,2,3,No,Furnished,2700000,Synthetic
+KNP0388,Kidwai Nagar,Independent House,4,4,1475,1288,31,1,1,Yes,Semi-furnished,8200000,Synthetic
+KNP0389,Civil Lines,Apartment,4,4,1485,1593,31,0,7,No,Unfurnished,11050000,Synthetic
+KNP0390,Rawatpur,Independent House,1,1,380,607,13,1,2,No,Unfurnished,1800000,Synthetic
+KNP0391,Kakadeo,Independent House,1,1,371,555,35,0,1,Yes,Semi-furnished,2150000,Synthetic
+KNP0392,Govind Nagar,Independent House,4,3,1744,1990,29,1,2,No,Unfurnished,9000000,Synthetic
+KNP0393,Swaroop Nagar,Independent House,1,1,435,464,3,1,1,Yes,Semi-furnished,4050000,Synthetic
+KNP0394,Shyam Nagar,Independent House,2,1,801,1012,24,0,1,Yes,Semi-furnished,4050000,Synthetic
+KNP0395,Kidwai Nagar,Apartment,1,1,437,406,1,2,4,Yes,Semi-furnished,2200000,Synthetic
+KNP0396,Shyam Nagar,Independent House,1,1,492,570,11,1,2,Yes,Unfurnished,2150000,Synthetic
+KNP0397,Naubasta,Apartment,2,2,551,543,27,1,4,Yes,Furnished,1650000,Synthetic
+KNP0398,Naubasta,Independent House,4,3,1052,1460,5,0,2,Yes,Semi-furnished,4550000,Synthetic
+KNP0399,Govind Nagar,Apartment,2,1,654,594,21,2,3,Yes,Semi-furnished,2950000,Synthetic
+KNP0400,Kakadeo,Independent House,4,3,1547,1697,15,0,2,Yes,Unfurnished,11250000,Synthetic
+KNP0401,Kidwai Nagar,Independent House,3,3,1075,983,8,0,1,Yes,Semi-furnished,6150000,Synthetic
+KNP0402,Shyam Nagar,Independent House,2,2,696,907,3,0,2,Yes,Semi-furnished,3900000,Synthetic
+KNP0403,Naubasta,Apartment,3,2,1097,1165,28,1,3,Yes,Semi-furnished,3850000,Synthetic
+KNP0404,Kidwai Nagar,Apartment,3,3,866,933,13,5,7,Yes,Semi-furnished,4400000,Synthetic
+KNP0405,Swaroop Nagar,Independent House,2,2,845,1100,16,1,1,No,Semi-furnished,8050000,Synthetic
+KNP0406,Govind Nagar,Apartment,3,3,1115,1154,1,0,3,Yes,Unfurnished,5600000,Synthetic
+KNP0407,Barra,Independent House,4,4,1522,2392,33,1,3,Yes,Unfurnished,6550000,Synthetic
+KNP0408,Govind Nagar,Apartment,3,3,1026,1071,25,4,10,Yes,Unfurnished,4600000,Synthetic
+KNP0409,Rawatpur,Independent House,3,3,755,702,35,1,2,No,Semi-furnished,3700000,Synthetic
+KNP0410,Barra,Independent House,3,3,1168,1103,26,0,2,Yes,Furnished,4000000,Synthetic
+KNP0411,Govind Nagar,Independent House,1,1,447,623,13,1,3,Yes,Furnished,2200000,Synthetic
+KNP0412,Kidwai Nagar,Apartment,3,3,799,805,4,0,3,Yes,Unfurnished,4200000,Synthetic
+KNP0413,Naubasta,Independent House,4,3,1313,1488,34,0,3,No,Unfurnished,4050000,Synthetic
+KNP0414,Naubasta,Independent House,4,4,1797,1775,2,0,3,Yes,Furnished,7300000,Synthetic
+KNP0415,Naubasta,Apartment,4,3,1219,1098,15,0,3,Yes,Semi-furnished,4700000,Synthetic
+KNP0416,Shyam Nagar,Independent House,4,4,1065,1264,15,0,3,Yes,Semi-furnished,5350000,Synthetic
+KNP0417,Kidwai Nagar,Apartment,1,1,553,559,33,1,7,No,Semi-furnished,2500000,Synthetic
+KNP0418,Barra,Independent House,1,1,493,487,35,1,1,Yes,Unfurnished,1500000,Synthetic
+KNP0419,Shyam Nagar,Independent House,3,3,1042,1209,15,1,1,Yes,Semi-furnished,5750000,Synthetic
+KNP0420,Govind Nagar,Independent House,2,2,831,1246,16,0,3,Yes,Semi-furnished,4050000,Synthetic
+KNP0421,Naubasta,Independent House,2,2,764,977,33,0,2,Yes,Furnished,2900000,Synthetic
+KNP0422,Shyam Nagar,Independent House,4,4,1483,1884,17,1,2,No,Semi-furnished,8000000,Synthetic
+KNP0423,Govind Nagar,Apartment,1,1,498,549,19,10,11,No,Semi-furnished,2150000,Synthetic
+KNP0424,Shyam Nagar,Apartment,4,3,1213,1346,4,3,4,Yes,Semi-furnished,5650000,Synthetic
+KNP0425,Kalyanpur,Independent House,2,2,753,829,10,0,1,No,Unfurnished,3300000,Synthetic
+KNP0426,Swaroop Nagar,Apartment,3,2,909,914,19,0,4,Yes,Unfurnished,7300000,Synthetic
+KNP0427,Shyam Nagar,Independent House,1,1,456,561,27,0,1,Yes,Semi-furnished,1800000,Synthetic
+KNP0428,Naubasta,Apartment,2,2,696,702,6,1,4,Yes,Furnished,2450000,Synthetic
+KNP0429,Shyam Nagar,Apartment,3,3,911,1005,21,4,5,Yes,Furnished,3950000,Synthetic
+KNP0430,Kidwai Nagar,Independent House,4,4,1579,1958,35,1,3,Yes,Unfurnished,9500000,Synthetic
+KNP0431,Civil Lines,Independent House,1,1,397,597,29,1,3,No,Unfurnished,3850000,Synthetic
+KNP0432,Civil Lines,Independent House,2,2,856,1072,9,1,1,No,Unfurnished,7650000,Synthetic
+KNP0433,Barra,Apartment,2,1,619,629,27,4,6,Yes,Furnished,1950000,Synthetic
+KNP0434,Barra,Apartment,4,4,1236,1211,17,4,8,Yes,Furnished,4350000,Synthetic
+KNP0435,Shyam Nagar,Independent House,2,2,862,802,6,0,1,No,Furnished,3700000,Synthetic
+KNP0436,Barra,Independent House,4,4,1086,979,30,1,2,No,Furnished,4400000,Synthetic
+KNP0437,Civil Lines,Apartment,1,1,422,386,27,6,11,Yes,Furnished,3550000,Synthetic
+KNP0438,Kakadeo,Independent House,2,2,713,862,19,1,3,Yes,Semi-furnished,4250000,Synthetic
+KNP0439,Kakadeo,Apartment,1,1,410,405,31,5,7,Yes,Furnished,2350000,Synthetic
+KNP0440,Barra,Apartment,4,3,1498,1584,2,2,7,Yes,Semi-furnished,6850000,Synthetic
+KNP0441,Kidwai Nagar,Independent House,3,2,923,1418,25,1,1,Yes,Unfurnished,5250000,Synthetic
+KNP0442,Naubasta,Apartment,2,2,903,975,8,1,10,No,Semi-furnished,3150000,Synthetic
+KNP0443,Kakadeo,Independent House,3,2,836,1149,21,1,1,Yes,Furnished,5450000,Synthetic
+KNP0444,Naubasta,Independent House,4,4,1174,1369,30,1,2,Yes,Furnished,4350000,Synthetic
+KNP0445,Govind Nagar,Apartment,1,1,382,389,28,2,6,Yes,Semi-furnished,1400000,Synthetic
+KNP0446,Barra,Independent House,4,4,1580,1929,15,0,2,Yes,Unfurnished,6100000,Synthetic
+KNP0447,Swaroop Nagar,Independent House,1,1,340,399,15,1,1,No,Semi-furnished,2800000,Synthetic
+KNP0448,Kakadeo,Independent House,4,3,1412,1351,22,0,1,Yes,Semi-furnished,8500000,Synthetic
+KNP0449,Kakadeo,Apartment,4,4,1655,1567,2,11,12,Yes,Unfurnished,10800000,Synthetic
+KNP0450,Naubasta,Apartment,3,2,967,971,17,2,6,Yes,Semi-furnished,3450000,Synthetic
+KNP0451,Shyam Nagar,Independent House,1,1,566,550,35,0,2,Yes,Unfurnished,2050000,Synthetic
+KNP0452,Swaroop Nagar,Apartment,4,4,1133,1151,16,2,3,Yes,Unfurnished,10000000,Synthetic
+KNP0453,Barra,Independent House,2,1,811,1133,21,0,2,No,Semi-furnished,3100000,Synthetic
+KNP0454,Rawatpur,Independent House,1,1,504,528,11,0,3,No,Unfurnished,2500000,Synthetic
+KNP0455,Rawatpur,Independent House,4,3,1607,1727,9,1,1,No,Semi-furnished,9100000,Synthetic
+KNP0456,Shyam Nagar,Independent House,2,2,700,917,29,0,2,Yes,Semi-furnished,3500000,Synthetic
+KNP0457,Naubasta,Independent House,3,3,1175,1031,9,0,1,Yes,Furnished,4400000,Synthetic
+KNP0458,Kidwai Nagar,Independent House,3,3,1062,1379,9,1,2,Yes,Furnished,6600000,Synthetic
+KNP0459,Govind Nagar,Independent House,4,4,1448,2067,17,1,1,No,Furnished,8400000,Synthetic
+KNP0460,Kakadeo,Apartment,1,1,567,573,25,6,10,Yes,Semi-furnished,3000000,Synthetic
+KNP0461,Govind Nagar,Independent House,4,3,1316,2066,26,1,2,Yes,Unfurnished,7000000,Synthetic
+KNP0462,Rawatpur,Independent House,2,2,729,688,4,1,1,Yes,Furnished,4300000,Synthetic
+KNP0463,Kakadeo,Independent House,2,2,624,866,7,0,1,Yes,Unfurnished,4100000,Synthetic
+KNP0464,Kalyanpur,Independent House,1,1,401,360,14,0,2,No,Unfurnished,1750000,Synthetic
+KNP0465,Swaroop Nagar,Apartment,3,3,920,1006,15,2,8,No,Semi-furnished,6750000,Synthetic
+KNP0466,Barra,Independent House,3,3,1133,1046,35,0,3,No,Unfurnished,3800000,Synthetic
+KNP0467,Naubasta,Independent House,2,1,599,590,6,1,3,Yes,Semi-furnished,2100000,Synthetic
+KNP0468,Rawatpur,Independent House,3,3,923,1203,18,1,3,Yes,Semi-furnished,5650000,Synthetic
+KNP0469,Kidwai Nagar,Independent House,1,1,513,599,12,1,3,Yes,Furnished,3000000,Synthetic
+KNP0470,Kakadeo,Apartment,3,2,909,830,6,7,10,Yes,Unfurnished,6350000,Synthetic
+KNP0471,Govind Nagar,Apartment,2,1,521,559,8,3,12,Yes,Unfurnished,2350000,Synthetic
+KNP0472,Civil Lines,Independent House,3,2,843,1078,32,1,1,No,Furnished,9100000,Synthetic
+KNP0473,Swaroop Nagar,Apartment,2,1,781,727,5,0,5,Yes,Unfurnished,5900000,Synthetic
+KNP0474,Rawatpur,Independent House,3,2,857,1065,11,0,2,Yes,Unfurnished,4900000,Synthetic
+KNP0475,Kidwai Nagar,Apartment,2,1,714,712,11,0,4,Yes,Unfurnished,3350000,Synthetic
+KNP0476,Kidwai Nagar,Independent House,1,1,532,544,21,1,3,No,Unfurnished,2350000,Synthetic
+KNP0477,Barra,Independent House,2,2,590,592,1,1,3,Yes,Unfurnished,2350000,Synthetic
+KNP0478,Civil Lines,Independent House,2,1,623,848,2,0,3,Yes,Unfurnished,5900000,Synthetic
+KNP0479,Shyam Nagar,Independent House,3,3,1276,1094,13,0,2,No,Furnished,5850000,Synthetic
+KNP0480,Civil Lines,Apartment,4,3,1260,1232,26,2,3,No,Semi-furnished,10150000,Synthetic
+KNP0481,Rawatpur,Independent House,1,1,461,425,25,1,3,No,Unfurnished,2150000,Synthetic
+KNP0482,Shyam Nagar,Independent House,1,1,534,480,10,1,3,Yes,Semi-furnished,2100000,Synthetic
+KNP0483,Kidwai Nagar,Apartment,1,1,482,434,8,1,5,No,Unfurnished,2350000,Synthetic
+KNP0484,Swaroop Nagar,Apartment,3,3,955,1051,17,0,6,No,Semi-furnished,7150000,Synthetic
+KNP0485,Govind Nagar,Apartment,1,1,451,434,5,2,5,Yes,Unfurnished,1900000,Synthetic
+KNP0486,Kakadeo,Apartment,4,3,1848,1767,27,1,3,No,Semi-furnished,9750000,Synthetic
+KNP0487,Kakadeo,Apartment,2,1,526,505,24,8,12,Yes,Furnished,3350000,Synthetic
+KNP0488,Govind Nagar,Independent House,4,3,1184,1686,2,0,1,No,Furnished,7550000,Synthetic
+KNP0489,Naubasta,Apartment,1,1,339,373,30,3,9,Yes,Unfurnished,1000000,Synthetic
+KNP0490,Shyam Nagar,Independent House,1,1,393,497,10,1,2,No,Semi-furnished,2000000,Synthetic
+KNP0491,Civil Lines,Apartment,2,1,800,841,9,7,8,Yes,Semi-furnished,6350000,Synthetic
+KNP0492,Kalyanpur,Independent House,2,2,507,558,21,1,2,No,Unfurnished,1950000,Synthetic
+KNP0493,Naubasta,Independent House,2,2,794,985,17,1,2,No,Semi-furnished,2800000,Synthetic
+KNP0494,Barra,Independent House,1,1,326,443,19,0,1,Yes,Furnished,1350000,Synthetic
+KNP0495,Kakadeo,Independent House,4,3,1286,1908,12,0,2,Yes,Semi-furnished,10850000,Synthetic
+KNP0496,Kalyanpur,Independent House,1,1,423,457,0,0,3,No,Furnished,1800000,Synthetic
+KNP0497,Barra,Independent House,4,3,1809,2446,35,1,2,No,Semi-furnished,7100000,Synthetic
+KNP0498,Rawatpur,Apartment,4,3,1606,1607,35,1,6,No,Semi-furnished,7000000,Synthetic
+KNP0499,Kidwai Nagar,Apartment,1,1,344,365,32,2,5,Yes,Unfurnished,1450000,Synthetic
+KNP0500,Naubasta,Independent House,3,3,804,873,3,0,2,Yes,Furnished,3150000,Synthetic
